@@ -32,11 +32,10 @@ Próximos projetos planejados:
 
 ## 📫 Contato
 
-* GitHub: https://github.com/Natan-devDesign
-* E-mails: 
-* -> designerntl@hotmail.com
-* -> designerntl@outlook.com
-* -> mc16.15ntl@gmail.com
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/ant-natanael/)
+* 📧 Email: [designerntl@hotmail.com](mailto:designerntl@hotmail.com)
+* 💬 Fale comigo: https://wa.me/5588993154963
+
 
 ---
 
