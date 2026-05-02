@@ -32,8 +32,6 @@ Próximos projetos planejados:
 
 ## 📫 Contato
 
-## 📫 Contato
-
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ant%C3%B4nio%20Natanael-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ant-natanael/)
 
 * [![Email](https://img.shields.io/badge/Email-designerntl@outlook.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:designerntl@outlook.com)
