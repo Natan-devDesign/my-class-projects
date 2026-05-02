@@ -17,38 +17,9 @@ Este repositório reúne aplicações desenvolvidas utilizando **JavaScript puro
 
 ## 📁 Projetos
 
-### 📝 Lista de Tarefas (To-Do List)
+### 📝 [Lista de Tarefas](https://github.com/Natan-devDesign/JavaScript_Projects/tree/main/01_listaDeTarefas
+)
 
-🔗 Acessar projeto:
-https://github.com/Natan-devDesign/JavaScript_Projects/tree/main/01_listaDeTarefas
-
-**Descrição:**
-Aplicação de lista de tarefas com manipulação dinâmica do DOM.
-
-**Funcionalidades:**
-
-* Adicionar tarefas
-* Remover tarefas
-* Salvar tarefa no LocalStorage
-
-**Tecnologias:**
-
-* JavaScript
-* HTML
-* CSS
-
----
-
-## 🧠 Conceitos aplicados
-
-* POO em JavaScript
-* Manipulação do DOM
-* Eventos (addEventListener)
-* Separação de responsabilidades no frontend
-* Animações
-
-
----
 
 ## 📈 Roadmap
 
