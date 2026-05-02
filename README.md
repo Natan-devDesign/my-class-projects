@@ -17,9 +17,8 @@ Este repositório reúne aplicações desenvolvidas utilizando **JavaScript puro
 
 ## 📁 Projetos
 
-### 📝 [Lista de Tarefas](https://github.com/Natan-devDesign/JavaScript_Projects/tree/main/01_listaDeTarefas
+- 📝[Lista de Tarefas](https://github.com/Natan-devDesign/JavaScript_Projects/tree/main/01_listaDeTarefas
 )
-
 
 ## 📈 Roadmap
 
