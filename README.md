@@ -32,9 +32,13 @@ Próximos projetos planejados:
 
 ## 📫 Contato
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/ant-natanael/)
-* 📧 Email: [designerntl@hotmail.com](mailto:designerntl@hotmail.com)
-* 💬 Fale comigo: https://wa.me/5588993154963
+## 📫 Contato
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ant%C3%B4nio%20Natanael-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ant-natanael/)
+
+* [![Email](https://img.shields.io/badge/Email-designerntl@outlook.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:designerntl@outlook.com)
+
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5588993154963)
 
 
 ---
