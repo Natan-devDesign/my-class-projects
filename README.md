@@ -36,7 +36,11 @@ Próximos projetos planejados:
 
 * [![Email](https://img.shields.io/badge/Email-designerntl@outlook.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:designerntl@outlook.com)
 
+* [![Instagram](https://img.shields.io/badge/Instagram-@ant.natanael-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ant.natanael)
+
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5588993154963)
+
+
 
 
 ---
